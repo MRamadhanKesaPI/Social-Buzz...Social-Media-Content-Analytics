@@ -1,4 +1,4 @@
-# Social Buzz Content Analysis (Accenture Job Simulation)
+# Social Buzz: Social Media Content Analytics - Accenture North America Job Simulation
 
 ## Project Background
 Social Buzz, founded in 2010, is a fast-growing social media platform that has transformed how people engage with content. Based in San Francisco, the company stands out by keeping users anonymous and offering over 100 unique ways to react to posts. This unique approach has attracted over 500 million monthly active users, making Social Buzz one of the fastest-growing platforms in the industry.
@@ -31,7 +31,7 @@ To make the analysis and insights easy to explore, the following resources are a
 
 - The Power BI dashboard in pdf format can be downloaded here: [Maven Market Dashboard.pdf](https://github.com/user-attachments/files/18228058/Maven.Market.Dashboard.pdf)
 
-## Data Structure & initial Checks
+## Data Structure
 The Social Buzz database used in this project consists of three tables: Reaction, Content, and Reaction Types, with a total of 24,573 rows of data.
 
 ![Social Buzz Data Structure](https://github.com/user-attachments/assets/5a0ceec9-59c9-4856-8148-3b6d2e7bcd37)
