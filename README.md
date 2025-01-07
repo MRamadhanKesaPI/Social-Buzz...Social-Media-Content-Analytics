@@ -36,7 +36,7 @@ The Social Buzz database used in this project consists of three tables: Reaction
 
 ![Social Buzz Data Structure](https://github.com/user-attachments/assets/5a0ceec9-59c9-4856-8148-3b6d2e7bcd37)
 
-These datasets were merged using Power Query to create a final dataset, which can be downloaded here: 
+These datasets were merged using Power Query to create a final dataset, which can be downloaded here: [Social Buzz Final Dataset.xlsx](https://github.com/user-attachments/files/18333572/Social.Buzz.Final.Dataset.xlsx)
 
 - **Tableau** for data visualization can be found [here](https://public.tableau.com/views/SocialBuzzContentAnalysis_17358080211010/SocialBuzzContentAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 - **Data Sources:** Aggregated social media metrics.
