@@ -26,8 +26,8 @@ identification of the peak month for content posting to uncover seasonal trends 
 To make the analysis and insights easy to explore, the following resources are available:
 
 - The data preparation process in Microsoft Excel can be found [here](https://mramadhankesapi.github.io/Data-Preparation-Process__for__Social-Buzz...Social-Media-Content-Analytics/)
-
-- An interactive Tableau dashboard can be downloaded [here](https://public.tableau.com/views/SocialBuzzContentAnalysis_17358080211010/SocialBuzzContentAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- The final dataset can be downloaded here: [Social Buzz Final Dataset.xlsx](https://github.com/user-attachments/files/18333572/Social.Buzz.Final.Dataset.xlsx)
+- An interactive Tableau dashboard can be seen [here](https://public.tableau.com/views/SocialBuzzContentAnalysis_17358080211010/SocialBuzzContentAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Data Structure
 The Social Buzz database used in this project consists of three tables: Reaction, Content, and Reaction Types, with a total of 24,573 rows of data.
@@ -36,12 +36,19 @@ The Social Buzz database used in this project consists of three tables: Reaction
 
 These datasets were merged using Power Query to create a final dataset, which can be downloaded here: [Social Buzz Final Dataset.xlsx](https://github.com/user-attachments/files/18333572/Social.Buzz.Final.Dataset.xlsx)
 
-- **Tableau** for data visualization can be found [here](https://public.tableau.com/views/SocialBuzzContentAnalysis_17358080211010/SocialBuzzContentAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
-- **Data Sources:** Aggregated social media metrics.
-- **Analysis:** Focused on audience behavior and engagement patterns.
+## Executive Summary
+
+![Social Buzz Overview](https://github.com/user-attachments/assets/c686b3f0-031b-4b19-9031-18d91624a2d9)
+
+![Top 5](https://github.com/user-attachments/assets/7481b2fe-9e86-454e-b3d9-1199b3aa3c53)
+
+![Reaction to Top 5 (2)](https://github.com/user-attachments/assets/f15ee6ea-217e-488a-ab15-c4832dcba87a)
+
+![Post by category](https://github.com/user-attachments/assets/93839e2c-b67d-488a-bde3-c2e97d6ed402)
+
+![Post by Month](https://github.com/user-attachments/assets/5de0b1c9-d2b6-491f-8a70-91209e478b8b)
 
 
-## Impact for Businesses:
-- Improved content strategies by identifying high-performing categories.
-- Insights into peak posting times for maximum visibility and engagement.
-- Tailored recommendations for engaging audiences in specific niches.
+
+
+
