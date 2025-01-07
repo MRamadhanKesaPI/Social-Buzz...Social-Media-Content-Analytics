@@ -22,6 +22,14 @@ analysis of reaction volumes for the most popular category to understand its app
 4. **Posting Trends**,
 identification of the peak month for content posting to uncover seasonal trends and opportunities for growth.
 
+## Project Assets
+To make the analysis and insights easy to explore, the following resources are available:
+
+- The data preparation in Microsoft Excel can be found [here](https://mramadhankesapi.github.io/Supporting-SQL-Queries-for-Retail-Analytics-and-Optimization_Maven-Market-Case-Study/)
+
+- The DAX measures for exploratory data analysis (EDA) process, along with the corresponding analysis questions can be found [here](https://mramadhankesapi.github.io/Supporting-DAX-Measures-for-Retail-Analytics-and-Optimization_Maven-Market-Case-Study/)
+
+- The Power BI dashboard in pdf format can be downloaded here: [Maven Market Dashboard.pdf](https://github.com/user-attachments/files/18228058/Maven.Market.Dashboard.pdf)
 
 #### Top 5 Popular Categories:
 - Animals (74,965 posts): The most popular category with a high engagement rate.
