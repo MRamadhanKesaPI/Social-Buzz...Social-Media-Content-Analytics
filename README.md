@@ -25,11 +25,9 @@ identification of the peak month for content posting to uncover seasonal trends 
 ## Project Assets
 To make the analysis and insights easy to explore, the following resources are available:
 
-- The data preparation in Microsoft Excel can be found [here](https://mramadhankesapi.github.io/Supporting-SQL-Queries-for-Retail-Analytics-and-Optimization_Maven-Market-Case-Study/)
+- The data preparation process in Microsoft Excel can be found [here](https://mramadhankesapi.github.io/Data-Preparation-Process__for__Social-Buzz...Social-Media-Content-Analytics/)
 
-- The DAX measures for exploratory data analysis (EDA) process, along with the corresponding analysis questions can be found [here](https://mramadhankesapi.github.io/Supporting-DAX-Measures-for-Retail-Analytics-and-Optimization_Maven-Market-Case-Study/)
-
-- The Power BI dashboard in pdf format can be downloaded here: [Maven Market Dashboard.pdf](https://github.com/user-attachments/files/18228058/Maven.Market.Dashboard.pdf)
+- An interactive Tableau dashboard can be downloaded [here](https://public.tableau.com/views/SocialBuzzContentAnalysis_17358080211010/SocialBuzzContentAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Data Structure
 The Social Buzz database used in this project consists of three tables: Reaction, Content, and Reaction Types, with a total of 24,573 rows of data.
