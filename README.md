@@ -39,7 +39,7 @@ To make the analysis and insights easy to explore, the following resources are a
 ## Data Structure
 The Social Buzz database used in this project consists of three tables: Reaction, Content, and Reaction Types, with a total of 24,573 rows of data.
 
-![Uploading Social Buzz Data Structure.png…]()
+![Social Buzz Data Structure](https://github.com/user-attachments/assets/a7bbbbf5-8600-4d5c-989d-5835a0ecb8cc)
 
 These datasets were merged using Power Query to create a final dataset, which can be downloaded here: [Social Buzz Final Dataset.xlsx](https://github.com/user-attachments/files/18333572/Social.Buzz.Final.Dataset.xlsx)
 
