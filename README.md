@@ -1,6 +1,12 @@
 # Social Buzz: Social Media Content Analytics - Accenture North America Job Simulation
 
----
+## Table of Contents
+- [**Project Background**](#project-background)
+- [**Project Assets**](#project-assets)
+- [**Data Structure**](#data-structure)
+- [**Insights**](#insights)
+- [**Recommendations**](#recommendations)
+
 ## Project Background
 Social Buzz, founded in 2010, is a rapidly growing social media platform that has changed how people interact with content. Based in San Francisco, the platform keeps users anonymous and offers over 100 unique ways to react to posts. This innovative approach has attracted over 500 million monthly active users, making Social Buzz one of the fastest-growing platforms in the industry.
 
@@ -27,26 +33,24 @@ analyze the reaction volume for the most popular category to understand its appe
 4. **Posting Trends**,
 identify peak posting months to uncover seasonal trends and growth opportunities.
 
----
+
 ## Project Assets
 To make the analysis and insights easy to explore, the following resources are available:
 
-- The data preparation process in Microsoft Excel can be found [here](https://mramadhankesapi.github.io/Data-Preparation-Process__for__Social-Buzz...Social-Media-Content-Analytics/)
-- The final dataset can be downloaded here: [Social Buzz Final Dataset.xlsx](https://github.com/user-attachments/files/18333572/Social.Buzz.Final.Dataset.xlsx)
-- An interactive Tableau dashboard can be seen [here](https://public.tableau.com/views/SocialBuzzContentAnalysis_17358080211010/SocialBuzzContentAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- The data preparation process in Microsoft Excel can be found [here](https://mramadhankesapi.github.io/Data-Preparation-Process__for__Social-Buzz...Social-Media-Content-Analytics/).
+- The final dataset can be downloaded here: [Social Buzz Final Dataset.xlsx](https://github.com/user-attachments/files/18333572/Social.Buzz.Final.Dataset.xlsx).
+- An interactive Tableau dashboard can be seen [here](https://public.tableau.com/views/SocialBuzzContentAnalysis_17358080211010/SocialBuzzContentAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
----
+
 ## Data Structure
 The Social Buzz database used in this project consists of three tables: Reaction, Content, and Reaction Types, with a total of 24,573 rows of data.
 
-![Social Buzz Data Structure](https://github.com/user-attachments/assets/a7bbbbf5-8600-4d5c-989d-5835a0ecb8cc)
+![Social Buzz Data Structure](https://github.com/user-attachments/assets/ff7f20ca-28b5-403d-b7df-8aec5937e6f9)
 
 These datasets were merged using Power Query to create a final dataset, which can be downloaded here: [Social Buzz Final Dataset.xlsx](https://github.com/user-attachments/files/18333572/Social.Buzz.Final.Dataset.xlsx)
 
----
-## Executive Summary
 
-### Insights:
+## Insights
 
 #### 1. The Top 5 Categories:
    Social Buzz has 16 different content categories, and the top 5 most popular ones based on reactions are:
@@ -73,7 +77,7 @@ Below is an overview from the Tableau dashboard. An interactive Tableau dashboar
 ![Social Buzz Overview](https://github.com/user-attachments/assets/c686b3f0-031b-4b19-9031-18d91624a2d9)
 
 
-### Recommendations:
+## Recommendations
 
 #### 1. The Top 5 Categories:
 Focus on creating more posts in the top-performing categories ('Animals,' 'Science,' 'Healthy Eating,' 'Technology,' and 'Food') to keep users engaged and drive more interactions.
