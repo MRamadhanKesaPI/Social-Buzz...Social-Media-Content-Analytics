@@ -1,5 +1,6 @@
 # Social Buzz: Social Media Content Analytics - Accenture North America Job Simulation
 
+---
 ## Project Background
 Social Buzz, founded in 2010, is a fast-growing social media platform that has transformed how people engage with content. Based in San Francisco, the company stands out by keeping users anonymous and offering over 100 unique ways to react to posts. This unique approach has attracted over 500 million monthly active users, making Social Buzz one of the fastest-growing platforms in the industry.
 
@@ -22,6 +23,7 @@ analysis of reaction volumes for the most popular category to understand its app
 4. **Posting Trends**,
 identification of the peak month for content posting to uncover seasonal trends and opportunities for growth.
 
+---
 ## Project Assets
 To make the analysis and insights easy to explore, the following resources are available:
 
@@ -29,6 +31,7 @@ To make the analysis and insights easy to explore, the following resources are a
 - The final dataset can be downloaded here: [Social Buzz Final Dataset.xlsx](https://github.com/user-attachments/files/18333572/Social.Buzz.Final.Dataset.xlsx)
 - An interactive Tableau dashboard can be seen [here](https://public.tableau.com/views/SocialBuzzContentAnalysis_17358080211010/SocialBuzzContentAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+---
 ## Data Structure
 The Social Buzz database used in this project consists of three tables: Reaction, Content, and Reaction Types, with a total of 24,573 rows of data.
 
@@ -36,17 +39,49 @@ The Social Buzz database used in this project consists of three tables: Reaction
 
 These datasets were merged using Power Query to create a final dataset, which can be downloaded here: [Social Buzz Final Dataset.xlsx](https://github.com/user-attachments/files/18333572/Social.Buzz.Final.Dataset.xlsx)
 
+---
 ## Executive Summary
+
+### Insights:
+
+#### 1. The Top 5 Categories:
+   Social Buzz has 16 different content categories, and the top 5 most popular ones based on reactions are:
+   - **'Animals'** with 74,965 points.
+   - **'Science'** with 71,168 points.
+   - **'Healthy Eating'** with 69,339 points.
+   - **'Technology'** with 68,738 points.
+   - **'Food'** with 66,676 points.
+
+   These categories show that people are really interested in topics like lifestyle, education, and well-being. This gives us great opportunities to create more content that connects with users.
+
+#### 2. Animals Category Leads Engagement:
+   The Animals category is not only the most popular in terms of posts but also gets the most interaction. This tells us that people are really engaged with animal-related content. So, it’s important to keep focusing on this area in future content plans.
+
+#### 3. Healthy Eating Shows High Engagement Potential:
+   Although there are fewer posts about Healthy Eating, they get a lot of attention and reactions. This shows that people are really interested in this topic. There’s a big opportunity to create more posts in this area and keep the engagement high.
+
+#### 4. Declining Activity in June 2021:
+   There was a noticeable drop in posts in June 2021, after a big peak in January 2021. This suggests something changed in how people were interacting with posts. It’s important to look more closely why this happened and find ways to keep posts consistent to maintain strong engagement.
+
+---
+Below is an overview from the Tableau dashboard. An interactive Tableau dashboard can be seen [here](https://public.tableau.com/views/SocialBuzzContentAnalysis_17358080211010/SocialBuzzContentAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ![Social Buzz Overview](https://github.com/user-attachments/assets/c686b3f0-031b-4b19-9031-18d91624a2d9)
 
-![Top 5](https://github.com/user-attachments/assets/7481b2fe-9e86-454e-b3d9-1199b3aa3c53)
 
-![Reaction to Top 5 (2)](https://github.com/user-attachments/assets/f15ee6ea-217e-488a-ab15-c4832dcba87a)
+### Recommendations:
 
-![Post by category](https://github.com/user-attachments/assets/93839e2c-b67d-488a-bde3-c2e97d6ed402)
+- **Leverage the Power of Animal Content:** Given the high reaction score in the Animals category, increase post volume and experiment with new formats (videos, polls, interactive stories) to further drive engagement. Utilize Social Buzz’s wide array of reaction options to encourage more interaction, such as encouraging users to react with diverse emotions beyond likes.
+  
+- **Expand Healthy Eating Content to Capitalize on Engagement:** Given the high level of interactivity in the Healthy Eating category, expand content to cater to diverse interests and encourage deeper engagement. Social Buzz’s unique system of over 100 reaction types offers an opportunity to engage users in new ways (e.g., polls, quizzes, or emotionally charged content that sparks varied reactions).
 
-![Post by Month](https://github.com/user-attachments/assets/5de0b1c9-d2b6-491f-8a70-91209e478b8b)
+- **Focus on Maintaining a Consistent Posting Strategy:** The drop in activity observed in June 2021 should be carefully evaluated in the context of how users interact and react to content. Ensure that content maintains relevance and resonates with users to prevent such dips, possibly by aligning post timing with reaction patterns, as Social Buzz’s environment allows for granular analysis of audience feedback.
+
+By optimizing the unique reaction system within Social Buzz, content can be fine-tuned to align with user preferences, ensuring both consistent engagement and growth opportunities.
+
+--- 
+
+This version incorporates Social Buzz's unique features, such as anonymous engagement and the wide variety of reactions, into the analysis and recommendations.
 
 
 
