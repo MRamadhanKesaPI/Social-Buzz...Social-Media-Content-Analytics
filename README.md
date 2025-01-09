@@ -10,7 +10,7 @@
 ## Project Background
 Social Buzz, founded in 2010, is a rapidly growing social media platform that has changed how people interact with content. Based in San Francisco, the platform keeps users anonymous and offers over 100 unique ways to react to posts. This innovative approach has attracted over 500 million monthly active users, making Social Buzz one of the fastest-growing platforms in the industry.
 
-Despite this success, Social Buzz is still relatively small, with only 250 employees. Most of the team is focused on maintaining the platform’s complex technology. As the company prepares for an IPO next year, it faces challenges in managing operations and handling the massive amounts of user-generated data. To address these issues, Social Buzz has partnered with Accenture to find expert solutions.
+Despite this success, Social Buzz is still relatively small company, with only 250 employees. Most of the team is focused on maintaining the platform’s complex technology. As the company prepares for an IPO next year, it faces challenges in managing operations and handling the massive amounts of user-generated data. To address these issues, Social Buzz has partnered with Accenture to find expert solutions.
 
 ### Purpose of the Analytics Team:
 The analytics team will focus on helping Social Buzz gain deeper insights into its content performance. The goals are to:
