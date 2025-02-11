@@ -1,4 +1,4 @@
-# Social Buzz: Social Media Content Analytics - Accenture North America Job Simulation
+# Social Buzz: Social Media Content Analytics - Accenture North America Virtual Case Experience
 
 ## Table of Contents
 - [**Project Background**](#project-background)
