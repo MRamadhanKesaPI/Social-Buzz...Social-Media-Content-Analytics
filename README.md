@@ -1,5 +1,7 @@
 # Social Buzz: Social Media Content Analytics - Accenture North America Virtual Case Experience
 
+**Welcome to my personal project repository!**
+
 ## Table of Contents
 - [**Project Background**](#project-background)
 - [**Project Assets**](#project-assets)
@@ -92,5 +94,6 @@ Post more about 'Healthy Eating' to tap into its high engagement. Work with heal
 Look into why activity dropped in June 2021. Use a posting schedule to keep content consistent and plan special campaigns during quieter months.
 
 
+### Thank you for exploring this project, Feel free to hear your thoughts, insights, or any feedback! Let’s keep the discussion going!
 
 
