@@ -65,13 +65,13 @@ These datasets were merged using Power Query to create a final dataset, which ca
    These categories show that people are really interested in topics like lifestyle, education, and well-being. This gives us great opportunities to create more content that connects with users.
 
 #### 2. Animals Category Leads Engagement:
-   The Animals category is not only the most popular in terms of posts but also gets the most interaction. This tells us that people are really engaged with animal-related content. So, it’s important to keep focusing on this area in future content plans.
+- The Animals category is not only the most popular in terms of posts but also gets the most interaction. This tells us that people are really engaged with animal-related content. So, it’s important to keep focusing on this area in future content plans.
 
 #### 3. Healthy Eating Shows High Engagement Potential:
-   Although there are fewer posts about Healthy Eating, they get a lot of attention and reactions. This shows that people are really interested in this topic. There’s a big opportunity to create more posts in this area and keep the engagement high.
+- Although there are fewer posts about Healthy Eating, they get a lot of attention and reactions. This shows that people are really interested in this topic. There’s a big opportunity to create more posts in this area and keep the engagement high.
 
 #### 4. Declining Activity in June 2021:
-   There was a noticeable drop in posts in June 2021, after a big peak in January 2021. This suggests something changed in how people were interacting with posts. It’s important to look more closely why this happened and find ways to keep posts consistent to maintain strong engagement.
+- There was a noticeable drop in posts in June 2021, after a big peak in January 2021. This suggests something changed in how people were interacting with posts. It’s important to look more closely why this happened and find ways to keep posts consistent to maintain strong engagement.
 
 ---
 Below is an overview from the Tableau dashboard. An interactive Tableau dashboard can be seen [here](https://public.tableau.com/views/SocialBuzzContentAnalysis_17358080211010/SocialBuzzContentAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
@@ -82,16 +82,16 @@ Below is an overview from the Tableau dashboard. An interactive Tableau dashboar
 ## Recommendations
 
 #### 1. The Top 5 Categories:
-Focus on creating more posts in the top-performing categories ('Animals,' 'Science,' 'Healthy Eating,' 'Technology,' and 'Food') to keep users engaged and drive more interactions.
+- Focus on creating more posts in the top-performing categories ('Animals,' 'Science,' 'Healthy Eating,' 'Technology,' and 'Food') to keep users engaged and drive more interactions.
   
 #### 2. Animals Category Leads Engagement: 
-Keep prioritizing animal-related content. Explore subtopics like pets or wildlife to keep it fresh, and partner with influencers or groups in this area to reach more people.
+- Keep prioritizing animal-related content. Explore subtopics like pets or wildlife to keep it fresh, and partner with influencers or groups in this area to reach more people.
 
 #### 3. Healthy Eating Shows High Engagement Potential:
-Post more about 'Healthy Eating' to tap into its high engagement. Work with health experts or share simple, practical tips to connect with the audience.
+- Post more about 'Healthy Eating' to tap into its high engagement. Work with health experts or share simple, practical tips to connect with the audience.
 
 #### 4. Declining Activity in June 2021:
-Look into why activity dropped in June 2021. Use a posting schedule to keep content consistent and plan special campaigns during quieter months.
+- Look into why activity dropped in June 2021. Use a posting schedule to keep content consistent and plan special campaigns during quieter months.
 
 
 ### Thank you for exploring this project, Feel free to hear your thoughts, insights, or any feedback! Let’s keep the discussion going!
