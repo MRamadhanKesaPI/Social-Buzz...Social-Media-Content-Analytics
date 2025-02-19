@@ -14,26 +14,11 @@ Social Buzz, founded in 2010, is a rapidly growing social media platform that ha
 
 Despite this success, Social Buzz is still relatively small company, with only 250 employees. Most of the team is focused on maintaining the platform’s complex technology. As the company prepares for an IPO next year, it faces challenges in managing operations and handling the massive amounts of user-generated data. To address these issues, Social Buzz has partnered with Accenture to find expert solutions.
 
-### Purpose of the Analytics Team:
-The analytics team will focus on helping Social Buzz gain deeper insights into its content performance. The goals are to:
+### Purpose of the Analysis:
+The goal of this analysis is to help on helping Social Buzz gain deeper insights into its content performance. The goals are to:
 - Identify the five most popular content categories based on user engagement.
 - Analyze user trends to highlight opportunities for improving engagement.
 - Deliver recommendations to help Social Buzz manage its growth and prepare for its upcoming milestones.
-
-### Insight and Recommendation Focus:
-The project focuses on providing actionable insights in these key areas:
-
-1. **Content Popularity Analysis**,
-identify the top 5 most popular content categories and the trends that drive engagement.
-
-2. **Category Diversity**,
-evaluate the platform’s category ecosystem by analyzing the total number of unique content categories.
-
-3. **User Reaction Patterns**,
-analyze the reaction volume for the most popular category to understand its appeal and engagement impact.
-
-4. **Posting Trends**,
-identify peak posting months to uncover seasonal trends and growth opportunities.
 
 
 ## Project Assets
@@ -55,23 +40,23 @@ These datasets were merged using Power Query to create a final dataset, which ca
 ## Insights
 
 #### 1. The Top 5 Categories:
-   Social Buzz has 16 different content categories, and the top 5 most popular ones based on reactions are:
-   - **'Animals'** with 74,965 points.
-   - **'Science'** with 71,168 points.
-   - **'Healthy Eating'** with 69,339 points.
-   - **'Technology'** with 68,738 points.
-   - **'Food'** with 66,676 points.
+   Social Buzz has **16 different content categories**, and the **top 5** most popular ones based on reactions are:
+   - **Animals** with 74,965 points.
+   - **Science** with 71,168 points.
+   - **Healthy Eating** with 69,339 points.
+   - **Technology** with 68,738 points.
+   - **Food** with 66,676 points.
 
-   These categories show that people are really interested in topics like lifestyle, education, and well-being. This gives us great opportunities to create more content that connects with users.
+   These categories show that people are really interested in topics like lifestyle, education, and well-being. This gives us **great opportunities** to create more content that **connects** with users.
 
 #### 2. Animals Category Leads Engagement:
-- The Animals category is not only the most popular in terms of posts but also gets the most interaction. This tells us that people are really engaged with animal-related content. So, it’s important to keep focusing on this area in future content plans.
+- The **Animals** category is not only the most popular in terms of posts but also gets the **most interaction**. This tells us that people are really engaged with animal-related content. So, it’s **important** to keep focusing on this area in **future content plans**.
 
 #### 3. Healthy Eating Shows High Engagement Potential:
-- Although there are fewer posts about Healthy Eating, they get a lot of attention and reactions. This shows that people are really interested in this topic. There’s a big opportunity to create more posts in this area and keep the engagement high.
+- Although there are **fewer posts** about **Healthy Eating**, they get a **lot of attention** and **reactions**. This shows that people are really interested in this topic. There’s a **big opportunity** to create more posts in this area and keep the **engagement** high.
 
 #### 4. Declining Activity in June 2021:
-- There was a noticeable drop in posts in June 2021, after a big peak in January 2021. This suggests something changed in how people were interacting with posts. It’s important to look more closely why this happened and find ways to keep posts consistent to maintain strong engagement.
+- There was a **noticeable drop** in posts in **June 2021**, after a **big peak** in **January 2021**. This suggests something changed in how people were interacting with posts. It’s **important** to look more closely at **why** this happened and find ways to **keep posts consistent** to maintain strong engagement.
 
 ---
 Below is an overview from the Tableau dashboard. An interactive Tableau dashboard can be seen [here](https://public.tableau.com/views/SocialBuzzContentAnalysis_17358080211010/SocialBuzzContentAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
