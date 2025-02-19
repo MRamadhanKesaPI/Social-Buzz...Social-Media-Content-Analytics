@@ -78,6 +78,7 @@ Below is an overview from the Tableau dashboard. An interactive Tableau dashboar
 
 ![Social Buzz Overview](https://github.com/user-attachments/assets/c686b3f0-031b-4b19-9031-18d91624a2d9)
 
+---
 
 ## Recommendations
 
