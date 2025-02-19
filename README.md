@@ -94,7 +94,7 @@ Below is an overview from the Tableau dashboard. An interactive Tableau dashboar
 #### 4. Declining Activity in June 2021:
 - Look into why activity dropped in June 2021. Use a posting schedule to keep content consistent and plan special campaigns during quieter months.
 
-
+---
 ### Thank you for exploring this project, Feel free to hear your thoughts, insights, or any feedback! Let’s keep the discussion going!
 
 
